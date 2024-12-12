@@ -1,8 +1,8 @@
 # Maven-Learning-Repo
+- This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
+- For interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
+- Visit my website for more inquiries and support [DevOpswithMike](https://devopswithmike.tech/).
 
- This site repository is maintained by [DevOpswithMike](https://www.youtube.com/@DevOpsWithMike0/videos).
-
- For Cloud and DevOps interview prepartion, use this platform [Wandaprep](https://www.wandaprep.com/).
 
 ## Introduction
 Apache Maven is a popular open-source build automation and dependency management tool, particularly for Java-based projects. Maven uses a file called pom.xml (Project Object Model) as its configuration to manage project structure, dependencies, plugins, and lifecycle phases in a unified way.
